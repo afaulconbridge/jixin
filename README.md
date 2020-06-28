@@ -66,3 +66,5 @@ pipdeptree
 ```
 
 Global git ignores per https://help.github.com/en/github/using-git/ignoring-files#configuring-ignored-files-for-all-repositories-on-your-computer
+
+For release, see https://packaging.python.org/tutorials/packaging-projects/

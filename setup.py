@@ -8,7 +8,7 @@ setup(
     packages=["jixin"],
     description="JSON (de)serialization mix-ins.",
     long_description=open("README.md").read(),
-    url='http://pypi.python.org/pypi/jixin/',
+    url='https://github.com/afaulconbridge/jixin',
     license='LICENSE.txt',
     install_requires=[""],
     extras_require={
@@ -22,4 +22,9 @@ setup(
             "pre-commit",
         ],
     },
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
 )
